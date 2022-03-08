@@ -56,43 +56,43 @@ Se gli [incantesimi](/cairn-srd##100-incantesimi) di default di Cairn non sono e
 | 41   | **Inchiostro Simpatico**        | Una singola pagina in un libro può essere alterata per nasconderne il vero contenuto. |
 | 42   | **Cupavista**                   | Il bersaglio può vedere per 60 piedi nell'oscurità totale |
 | 43   | **Respiro della Morte**         | Evochi una nube velenosa (d6 danni a FOR) che puoi controllare. |
-| 44   | **Death's Breath**              | You summon a poisonous cloud (d6 STR loss) you can control.  |
-| 45   | **Devil's Comedian**            | WIL save or target laughs uncontrollably, unable to take any action. |
-| 46   | **Disaster Fluid**              | Anything in a 10ft square becomes slippery; DEX save to avoid slipping. |
-| 47   | **Disrupt Scry**                | Future divinations of one creature or object are misled according to your will. |
-| 48   | **Doppleganger**                | You spawn 1d6 decoy duplicates of someone you touch. Decoys are dispelled with a touch. |
-| 49   | **Doubleskin**                  | Target humanoid doubles in size.                             |
-| 50   | **Dreampoison**                 | Target is deprived after suffering a night of bad dreams.    |
-| 51   | **Dreamtalker**                 | Sends a message to anyone currently asleep.                  |
-| 52   | **Earsplit**                    | Anyone within earshot is deafened.                           |
-| 53   | **Easy Descent**                | Objects or creatures nearby fall very slowly.                |
-| 54   | **Edifice**                     | You summon a stone wall up to 20ft wide that you can control. |
-| 55   | **Energize Rope**               | A rope-like objects moves at your command.                   |
-| 56   | **Ensorcelled**                 | Creatures are enraptured for a few minutes unless they pass a WIL save. |
-| 57   | **Envision**                    | Spies on a target you have met, even across vast distances. On a WIL save, they can feel your presence. |
-| 58   | **Ephemeral Audio**             | Point to a spot. Anyone nearby hears a sound you choose at any volume. |
-| 59   | **Epidemic**                    | Infects target with disease, which spreads until the source of magic is destroyed. |
-| 60   | **Extraplanar Convocation**     | Summons any extraplanar being onto your plane. It holds no loyalty towards you or your allies. |
-| 61   | **Extraplanar Request**         | Ask a single question of a random extraplanar entity.        |
-| 62   | **Feline Dexterity**            | Target becomes limber, lithe and as fast as quicksilver.     |
-| 63   | **Find Virulence**              | Detects poison in any creature or object within 30ft.        |
-| 64   | **Fire Curse**                  | An object you touch is imbued with a hidden flame-trap dealing 1d4+2 STR loss. |
-| 65   | **Firey Missile**               | A bow you touch can fire flaming arrows (1d10 damage) for one minute. |
-| 66   | **Fish Lung**                   | A target can breathe underwater until they surface again.    |
-| 67   | **Fleetfooted**                 | One creature moves at double speed.                          |
-| 68   | **Flicker**                     | Target randomly vanishes and reappears once at will.         |
-| 69   | **Fog of Nausea**               | A cloud of nauseating vapors pours out from the Spellbook's pages. Anyone nearby makes a STR save or vomit uncontrollably. |
-| 70   | **Fold Portal**                 | A door you touch opens into another door you've stepped through before until it is shut again. |
-| 71   | **Foolishness**                 | A target you touch becomes vulnerable to wild mood swings, sweeping conclusions and silly behavior. They also lose 1d6 WIL for 24 hours (down to a minimum of 1). |
-| 72   | **Fortify**                     | Damage from heat, ice, acid or electricity are impaired against a target for the next hour. |
-| 73   | **Frozen Corpse**               | A corpse you touch is preserved.                             |
-| 74   | **Gale**                        | You summon an impenetrable wall of energy up to 15ft wide.   |
-| 75   | **Ghost Whisper**               | You and a sympathetic ally are linked, able to converse in short sentences for an hour. |
-| 76   | **Gift of Flight**              | Target can fly for a short while.                            |
-| 77   | **Glacier**                     | You create a wall of ice (15 HP, 3 Armor) around a creature you choose. |
-| 78   | **Gorgon's Gaze**               | Target is transformed into a statue on a failed WIL save. A success reverses the spell; holder must pass a WIL save or the book is destroyed. |
-| 79   | **Great Ball of Fire**          | You fire a ball of flame (1d10 damage) up to 20 feet away.   |
-| 80   | **Hand of the Protector**       | A giant, floating hand blocks all damage from a single opponent until you are safe from danger. |
+| 44   | **Buffone del Diavolo**         | Tiro salvezza su VOL o il bersaglio comincia a ridere senza alcun controllo, diventando incapace di compiere qualsiasi azione. |
+| 45   | **Fluido del Disastro**         | Qualsiasi cosa in un quadrato di 10 piedi diventa scivoloso; per non scivolare occorre un tiro salvezza su DES. |
+| 46   | **Disturba Scrutare**           | Le divinazioni future di una creatura o oggetto sono sabotate in base alla tua volontà. |
+| 47   | **Doppleganger**                | Produci 1d6 copie di qualcuno che tocchi. Le copie sono eliminate col tocco. |
+| 48   | **Doppiapelle**                 | L'umanoide bersaglio raddoppia in dimensioni. |
+| 49   | **Avvelenasogni**               | Il bersaglio è esausto dopo aver trascorso una notte di incubi. |
+| 50   | **Parlasogni**                  | Manda un messaggio a un bersaglio qualsiasi che stia dormendo. |
+| 51   | **Spaccaorecchi**               | Chiunque sia a portata d'udito è assordato.|
+| 52   | **Discesa Facile**              | Oggetti o creature vicine cadono molto lentamente. |
+| 53   | **Edificio**                    | Evochi un muro di pietra largo fino a 20 piedi, che puoi controllare. |
+| 54   | **Energizzare Corde**           | Un oggetto simile a una corda si muove al tuo comando. |
+| 55   | **Incantare**                   | Creature sono ammaliate per qualche minuto a meno che non passino un tiro salvezza su VOL.|
+| 56   | **Vedere**                      | Spia un bersaglio che hai già incontrato, anche attraverso grandi distanze. Con un tiro su VOL, può sentire la tua presenza. |
+| 57   | **Suono Effimero**              | Indica un punto. Chiunque vi sia vicino sente un suono che vuoi a qualsiasi volume. |
+| 58   | **Epidemia**                    | Infetta il bersaglio con una malattia, che si diffonde finché la fonte della magia non è distrutta. |
+| 59   | **Convocazione Extraplanare**   | Evoca qualsiasi essere extraplanare sul tuo piano. Non nutre alcuna fedeltà verso di te o i tuoi alleati. |
+| 60   | **Richiesta Extraplanare**      | Pone una singola domanda a un'entità extraplanare casuale. |
+| 61   | **Destrezza Felina**            | Il bersaglio diventa agile, pronto e veloce come l'argento vivo. |
+| 62   | **Trova Veleno**                | Individua veleni in qualsiasi creatura o oggetto entro 30 piedi. |
+| 63   | **Maledizione del Fuoco**       | Un oggetto che tocchi è infuso di una trappola di fuoco nascosta che infligge 1d4+2 danni a FOR. |
+| 64   | **Proiettile Fiammeggiante**    | Un arco che tocchi può lanciare frecce fiammeggianti (1d10 danni) per un minuto |
+| 65   | **Polmoni da Pesce**            | Un bersaglio può respirare sott'acqua finché non riemerge. |
+| 66   | **Piè veloce**                  | Una creatura si muove al doppio della velocità|
+| 67   | **Lampeggiare**                 | Il bersaglio svanisce e riappare casualmente una volta, in base alla tua volontà |
+| 68   | **Nube di Nausea**              | Una nube di vapori nauseante si riversa fuori dalle pagine di questo Libro degli Incantesimi. Chiunque sia vicino deve superare un tiro su FOR o vomitare incontrollabilmente.|
+| 69   | **Ripiega Portali**             | Una porta che tocchi si apre su un'altra porta attraverso cui sei passato fino alla prossima chiusura. |
+| 70   | **Stupidità**                   | Un bersaglio che tocchi diventa prono a forti sbalzi d'umore, conclusioni affrettate e comportamente sciocco. Inoltre, perde 1d6 VOL per 24 ore (fino a un minimo di 1). |
+| 71   | **Fortificare**                 | I danni da calore, freddo, acido o elettricità hanno svantaggio contro un bersaglio per un'ora. |
+| 72   | **Cadavere Congelato**          | Un cadavere che tocchi viene preservato. |
+| 73   | **Bufera**                      | Evochi un impenetrabile muro di energia largo fino a 15 piedi. |
+| 74   | **Sussurro Fantasma**           | Tu e un alleato volontario siete collegati, capaci di conversare in brevi frasi per un'ora. |
+| 75   | **Dono del Volo**               | Il bersaglio può volare per breve tempo. |
+| 76   | **Ghiacciaio**                  | Crei un muro di ghiaccio (15 PF, 3 Armatura) attorno a una creatura a tua scelta. |
+| 77   | **Sguardo della Gorgone**       | Il bersaglio è trasformato in un una statua se fallisce un tiro su VOL. Un successo inverte l'incantesimo; il proprietario deve superare un tiro su VOL o il libro |
+| 78   | **Grande Palla di Fuoco**       | Lanci una palla di fuoco (1d10 danni) fino a 20 piedi di distanza. |
+| 79   | **Mano del Protettore**         | Una gigantesca mano fluttuante blocca tutti i danni da un singolo avversario finché non sei al sicuro. |
+| 80   | **Grazia Curativa**             | Un bersaglio recupera 1d6 FOR e tu diventi esausto finché non ti prendi il tempo di meditare, pregare o dormire. |
 | 81   | **Healing Grace**               | A target heals 1d6 STR, and you become deprived until you take the time to mediate, pray or sleep. |
 | 82   | **Heatless Torch**              | Turns any object into a permanent, heatless torch.           |
 | 83   | **Hedgemagick**                 | You perform a minor magical trick (create flame, wind, light or sound). |
