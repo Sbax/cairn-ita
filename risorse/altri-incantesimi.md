@@ -12,49 +12,50 @@ Se gli [incantesimi](/cairn-srd##100-incantesimi) di default di Cairn non sono e
 
 |      |                             |                                                              |
 | ---- | --------------------------- | ------------------------------------------------------------ |
-| 1    | **Adaptive Skin**               | Target can exist comfortably in hot or cold environments.    |
-| 2    | **Addle Brain**                 | Target must pass WIL save or drop to 0 WIL for 1 hour.       |
-| 3    | **Animal Call**                 | Summons a mundane beast. It holds no loyalty towards you or your allies. |
-| 4    | **Anti-Magic Globe**            | A thin shell of magical protection surrounds a small area around the caster. For every additional minute the globe is active they take one additional Fatigue. |
-| 5    | **Arachnid's Finesse**          | Target can walk on walls and ceilings.                       |
-| 6    | **Arcane Arrow**                | Green energy bursts from your fingers, dealing 1d6 damage and ignoring mundane armor. |
-| 7    | **Arcane Confinement**          | Target is bound by magical rope, able only to speak but nothing more. |
-| 8    | **Arcane Epistle**              | You write a letter that only its intended reader can understand. |
-| 9    | **Arcane Fireworks**            | Target flame becomes a great conflagration of heat, light and sound. |
-| 10   | **Arcane Stain**                | Inscribes an invisible rune you can feel. Suffer 1d4 WIL loss if removed. |
-| 11   | **Architect's Eye**             | Any hidden doors within 60ft light up as if on fire.         |
-| 12   | **Architect's Perfection**      | Create a holographic wall, floor, or ceiling that looks absolutely real. |
-| 13   | **Astral Step**                 | You and anyone touching you instantly transport to a known location you have been to before. |
-| 14   | **Banishment**                  | WIL save or creature to returns to native plane.             |
-| 15   | **Become Unseen**               | Target becomes invisible for 1 hour, and are still able use abilities and attack without detection. Afterwards they become incapacitated (deprived) |
-| 16   | **Beguilement**                 | Target humanoid must make a WIL save or is controlled telepathically. |
-| 17   | **Bewildering Fog**             | A hazy fog surrounds you in a radius of 20ft. Attacks within the mist are impaired. |
-| 18   | **Blazing Defense**             | You manifest a shield of flame (+1 Armor, 1d6 damage). Fire cannot hurt you. |
-| 19   | **Blessing**                    | Target’s attacks are enhanced and non-Blast attacks are impaired against them until they next take damage. |
-| 20   | **Bolster**                     | A person you can see is emboldened by your words for a few minutes: their attacks are enhanced and they cannot become deprived. |
-| 21   | **Bound**                       | Target can make a single jump to any place they can see.     |
-| 22   | **Boundless Message**           | Delivers a single sentence to any one creature instantaneously, no matter the distance. |
-| 23   | **Breath Soup**                 | Blocks vision and slows movement.                            |
-| 24   | **Burning Missile**             | You fire an acid missile that does 1d6 damage to a target for every round it is not washed off. |
-| 25   | **Burnishing Bubble**           | Target is enclosed by an impenetrable sphere that rolls along the ground, unless they pass a DEX save. |
-| 26   | **Calcify**                     | Target object turns to stone at the caster's touch. Living targets save vs STR. |
-| 27   | **Catsense**                    | Target has heightened senses for the next hour, especially at night. |
-| 28   | **Chilling Graze**              | Target loses 1d4+1 STR and is deprived.                      |
-| 29   | **Cinder Flesh**                | Energy beams burn enemies (1d10 blast damage) in a straight line. |
-| 30   | **Circle of Arcane Protection** | Magical or godly beings cannot enter a 10ft circle.          |
-| 31   | **Cleanse**                     | Rotten or poisoned food becomes edible.                      |
-| 32   | **Cold Spray**                  | A spray of cold air does d6 damage 20ft in one direction.    |
-| 33   | **Conceal Object**              | Masks an object against divination or scrying.               |
-| 34   | **Conquer Gravity**             | Target moves up or down according to your whims.             |
-| 35   | **Cosmic Fingertips**           | Your hands sculpt stone, rock or minerals into any form you please. |
-| 36   | **Coup de Grâce**               | An ally's next attack ignores armor and takes damage directly from their target's STR. |
-| 37   | **Craft from Clay**             | Any natural, earthen target is transformed (rock to mud, lava to rock, etc). |
-| 38   | **Create Unlife**               | Creates 1d4 undead skeletons and zombies from corpses. WIL save every hour to control them. |
-| 39   | **Curse of the Sightless**      | Anyone within eyesight must make a WIL save or be blinded.   |
-| 40   | **Curse Unlife**                | Deals 1d4+2 STR loss to one undead, ignoring armor and resistances. |
-| 41   | **Cure-All**                    | A single illness or disease dissipates at your touch.        |
-| 42   | **Cute Ink**                    | A single page in a book can be altered to hide its true content. |
-| 43   | **Darksight**                   | Target can see 60 ft. in total darkness.                     |
+| 1    | **Pelle Adattativa              | Il bersaglio può esistere confortevolmente in ambienti caldi o freddi. |
+| 2    | **Confondi cervello**           | Il bersaglio deve superare un tiro su VOL o andare a 0 VOL per 1 ora.    |
+| 3    | **Richiama Animale**            | Evoca una bestia mondana. Non nutre alcuna fedeltà verso di te o i tuoi alleati. |
+| 4    | **Globo Anti-Magia**            | Un sottile scudo di protezione magica circonda una piccola area attorno all'incantatore. Per ogni minuto addizionale in cui il globo è attivo, l'incantatore aggiunge una Fatica addizionale. |
+| 4    | **Eleganza dell'Aracnide**      | Il bersaglio può camminare sui muri e i soffitti. |
+| 5    | **Freccia Arcana**              | Energia verde sprizza dalle tue dita, infliggendo 1d6 danni e ignorando le armature mondane. |
+| 6    | **Confino Arcano**              | Il bersaglio viene legato da corde magiche, è in grado di parlare, ma nulla di più. |
+| 7    | **Epistola Arcana**             | Scrivi una lettera che solo il destinatario può comprendere. |
+| 8    | **Fuochi Arcani**               | La fiamma bersaglio diventa una grande esplosione di calore, luce e suono. |
+| 9    | **Macchia Arcana**              | Inscrive una runa invisibile che puoi percepire. Perdi 1d4 VOL se viene rimossa. |
+| 10   | **Occhio dell'Architetto**      | Qualsiasi porta nascosca entro 60 piedi si illumina come se fosse in fiamme. |
+| 11   | **Perfezione dell'Architetto**  | Crea un muro, pavimento o soffitto olografico che sembra assolutamente reale. |
+| 12   | **Passo Astrale**               | Tu e chiunque tu stia toccando vi trasportate istantaneamente in una località nota dove sei già stato. |
+| 13   | **Bandire**                     | Una creatura deve superare un tiro su VOL o tornare al proprio piano natale. |
+| 14   | **Diventare Nonvisto**          | Il bersaglio diventa invisibile per 1 ora ed è in grado di usare abilità e attaccare senza essere individuato. Al termine, diventa incapacitato (esausto) |
+| 15   | **Inganno**                     | L'umanoide bersaglio deve superare un tiro su VOL o essere controllato telepaticamente. |
+| 16   | **Nebbia Ingannevole**          | Una nebbia offuscante ti circonda con un raggio di 20 piedi. Gli attacchi all'interno della nebbia hanno svantaggio. |
+| 17   | **Difesa Ardente**              | Manifesti uno scudo di fiamme (+1 Armatura, 1d6 danni). Il fuoco non ti può ferire. |
+| 18   | **Benedizione**                 | Gli attacchi del bersaglio hanno vantaggio e gli attacchi non-scoppio contro di lui hanno svantaggio finché non subisce danni.|
+| 19   | **Incoraggiare**                | Una persona che puoi vedere è incoraggiata dalle tue parole per qualche minuto: i suoi attacchi hanno vantaggio e non può diventare esausto.|
+| 20   | **Balzo**                       | Il bersaglio può effettuare un singolo salto per raggiungere qualsiasi posto possa vedere. |
+| 21   | **Messaggio illimitato**        | Recapita una singola frase a una qualsiasi creatura istantaneamente, non importa la distanza. |
+| 22   | **Respira Zuppa**               | Blocca la visione  e rallenta il movimento. |
+| 23   | **Proiettile Bruciante**        | Spari un proiettile acido che infligge 1d6 danni a un bersaglio per ogni turno finché non viene lavato via. |
+| 24   | **Bolla lucidante**             | Il bersaglio è intrappolato in una sfera impenetrabile che rotola sul terreno, a meno che non superi un tiro su DES. |
+| 25   | **Calcificare**                 | L'oggetto bersaglio si tramuta in pietra al tocco dell'incantatore. I bersagli viventi fanno un tiro salvezza su FOR. |
+| 26   | **Sensi del Gatto**             | I sensi del bersaglio sono amplificati per la prossima ora, soprattutto di notte. |
+| 27   | **Tocco congelante**            | Il bersaglio perde 1d4+1 FOR ed è esausto.|
+| 28   | **Incenerire la Carne**         | Raggi di energia bruciano i nemici (1d10 danni da scoppio) in linea retta. |
+| 29   | **Cerchio di Protezione Arcana** | Gli esseri magici o divini non possono entrare un cerchio di 10 piedi. |
+| 30   | **Purificare**                  | Il cibo marcio  o avvelenato torna commestibile. |
+| 31   | **Spruzzo Gelido**              | Un getto d'aria fredda infligge d6 danni per 20 piedi in una direzione. |
+| 32   | **Nascondi Oggetto**            | Maschera un oggetto da divinazione e scrutamenti. |
+| 33   | **Sconfiggere la Gravità**      | Il bersaglio si muove su e giù in base alla tua volontà.|
+| 34   | **Dita Cosmiche**               | Le tue mani scolpiscono pietra, roccia o minerali in qualsiasi forma tu voglia. |
+| 35   | **Colpo di Grazia**             | Il prossimo attacco di un alleato ignora l'armatura e infligge danni direttamente alla FOR del bersaglio. |
+| 36   | **Creare dall'Argilla**         | Qualsiasi bersaglio naturale e terreno è trasformato (roccia in fango, lava in roccia, eccetera). |
+| 37   | **Creare Nonvita**              | Crea 1d54 scheletri e zombie nonmorti dai cadaveri. Tira su VOL ogni ora per controllarli. |
+| 38   | **Maledizione del Senzavista**  | Chiunque in vista deve superare un tiro su VOL o essere accecato. |
+| 39   | **Maledire la Nonvita**         | Infligge 1d4+2 danni a FOR a un nonmorto, ignorando amratura e resistenza. |
+| 40   | **Curatutto**                   | Una singola malattia o infezione si dissipa al tuo tocco. |
+| 41   | **Inchiostro Simpatico**        | Una singola pagina in un libro può essere alterata per nasconderne il vero contenuto. |
+| 42   | **Cupavista**                   | Il bersaglio può vedere per 60 piedi nell'oscurità totale |
+| 43   | **Respiro della Morte**         | Evochi una nube velenosa (d6 danni a FOR) che puoi controllare. |
 | 44   | **Death's Breath**              | You summon a poisonous cloud (d6 STR loss) you can control.  |
 | 45   | **Devil's Comedian**            | WIL save or target laughs uncontrollably, unable to take any action. |
 | 46   | **Disaster Fluid**              | Anything in a 10ft square becomes slippery; DEX save to avoid slipping. |
