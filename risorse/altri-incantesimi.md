@@ -93,14 +93,14 @@ Se gli [incantesimi](/cairn-srd##100-incantesimi) di default di Cairn non sono e
 | 78   | **Grande Palla di Fuoco**       | Lanci una palla di fuoco (1d10 danni) fino a 20 piedi di distanza. |
 | 79   | **Mano del Protettore**         | Una gigantesca mano fluttuante blocca tutti i danni da un singolo avversario finché non sei al sicuro. |
 | 80   | **Grazia Curativa**             | Un bersaglio recupera 1d6 FOR e tu diventi esausto finché non ti prendi il tempo di meditare, pregare o dormire. |
-| 81   | **Healing Grace**               | A target heals 1d6 STR, and you become deprived until you take the time to mediate, pray or sleep. |
-| 82   | **Heatless Torch**              | Turns any object into a permanent, heatless torch.           |
-| 83   | **Hedgemagick**                 | You perform a minor magical trick (create flame, wind, light or sound). |
-| 84   | **Hempen Hoop**                 | A rope moves at your command.                                |
-| 85   | **Hide Mind**                   | The next person to scry your mind or your whereabouts is fooled. |
-| 86   | **Hoodwink Monster**            | Target monster makes a WIL save or treats you as an ally.    |
-| 87   | **Hoodwink Person**             | Target becomes a friend until out of sight.                  |
-| 88   | **Hovering Protection**         | A hovering, transparent disk materializes around an ally granting 1 Armor. |
+| 81   | **Torcia Fredda**               | Trasforma un qualsiasi oggetto in una torcia permanente e senza calore. |
+| 82   | **Trucchetto**                  | Compi un trucco magico minore (creare fiamma, vento, luce o suono). |
+| 83   | **Cerchio di corda**            | Una corda si muove al tuo comando. |
+| 84   | **Nascondere Mente**            | La prossima persona che cerca di divinare la tua mente o posizione viene ingannata. |
+| 85   | **Fregare Mostri**              | Il mostro bersaglio deve superare un tiro su VOL o trattarti come un alleato. |
+| 86   | **Fregare Persone**             | Il bersaglio diventa un amico finché rimane in vista. |
+| 87   | **Protezione Fluttuante**       | Un disco trasparente si materializza e fluttua attorno a un alleato, donandogli 1 Armatura. |
+| 88   | **Raggio di Ghiaccio**          | Ghiaccio e neve fluiscono dalle tue dita, infliggendo 1d8 danni (scoppio) in linea retta. |
 | 89   | **Ice Ray**                     | Ice and snow flow from your fingerprints, dealing 1d8 damage (blast) in a straight line. |
 | 90   | **Icy Tempest**                 | Hail deals 1d12 damage in a 20ft radius.                     |
 | 91   | **Ill Fate**                    | Target automatically fails next their next save.             |
