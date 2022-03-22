@@ -231,10 +231,10 @@ Se gli [incantesimi](/cairn-srd##100-incantesimi) di default di Cairn non sono e
 
 
 
-### References
-- Chris McDowall's [Want a Simplified D&D Spell List?](https://www.bastionland.com/2012/08/want-simplified-d-spell-list.html)
-- Mike Evan's [The Concise Spell List for ANY Version of D&D or OSR](https://wrathofzombie.wordpress.com/2012/07/20/the-concise-spell-list-for-any-version-of-dd-or-osr/)
-- Goblin Punch's [GLOG Wizard](https://drive.google.com/file/d/0BxVHEMMjLlZ4UWYzX3o1UnEtd0U/view?resourcekey=0-ZqZEVaSwAMdy_U8B-AF0iA)
+### Riferimenti (in Inglese)
+- [Want a Simplified D&D Spell List?](https://www.bastionland.com/2012/08/want-simplified-d-spell-list.html) di Chris McDowall
+- [The Concise Spell List for ANY Version of D&D or OSR](https://wrathofzombie.wordpress.com/2012/07/20/the-concise-spell-list-for-any-version-of-dd-or-osr/) di Mike Evan
+- [GLOG Wizard](https://drive.google.com/file/d/0BxVHEMMjLlZ4UWYzX3o1UnEtd0U/view?resourcekey=0-ZqZEVaSwAMdy_U8B-AF0iA) di Goblin Punch
 - [The Hypertext d20 SRD](https://www.d20srd.org/srd/spells/)
 - [Wizards of the Coast SRD](https://dnd.wizards.com/articles/features/systems-reference-document-srd)
 - [Wizards of the Coast 5.1 OGL](http://media.wizards.com/2016/downloads/DND/SRD-OGL_V5.1.pdf)
