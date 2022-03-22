@@ -101,39 +101,39 @@ Se gli [incantesimi](/cairn-srd##100-incantesimi) di default di Cairn non sono e
 | 86   | **Fregare Persone**             | Il bersaglio diventa un amico finché rimane in vista. |
 | 87   | **Protezione Fluttuante**       | Un disco trasparente si materializza e fluttua attorno a un alleato, donandogli 1 Armatura. |
 | 88   | **Raggio di Ghiaccio**          | Ghiaccio e neve fluiscono dalle tue dita, infliggendo 1d8 danni (scoppio) in linea retta. |
-| 89   | **Ice Ray**                     | Ice and snow flow from your fingerprints, dealing 1d8 damage (blast) in a straight line. |
-| 90   | **Icy Tempest**                 | Hail deals 1d12 damage in a 20ft radius.                     |
-| 91   | **Ill Fate**                    | Target automatically fails next their next save.             |
-| 92   | **Illusory Landscape**          | You can make one type of terrain appear like another.        |
-| 93   | **Incorporeal Shrug**           | Ignore any one attack.                                       |
-| 94   | **Induce Despair**              | Target must pass a WIL save or its attacks are impaired.     |
-| 95   | **Induce Horror**               | Target makes a WIL save or flees.                            |
-| 96   | **Inferno**                     | You summon a flaming wall up to 15ft wide. Anyone passing through suffers 1d6 STR loss. |
-| 97   | **Influence**                   | Target gains armor 3 but running and swimming are impossible. |
-| 98   | **Insubstantiate**              | Target becomes insubstantial and can float.                  |
-| 99   | **Kraken's Curse**              | Tentacles grapple all within 20 ft, STR save to break free.  |
-| 100  | **Lamp's Hue**                  | Target object shines like a torch for one hour.              |
-| 101  | **Latch**                       | An unlocked box, cabinet or door opens or closes at your command. |
-| 102  | **Librarian's Trap**            | Deals 1d4+2 STR loss when read.                              |
-| 103  | **Lichsense**                   | You feel any undead within 60ft. WIL save to avoid detection by intelligent undead. |
-| 104  | **Light Show**                  | You control a dazzling display of light and color.           |
-| 105  | **Lightning Strike**            | Electricity flings from your fingertips doing 1d12 damage (blast) in a line. |
-| 106  | **Linguist**                    | For the next hour you can speak and understand any mundane language. |
-| 107  | **Magic Seal**                  | Magically locks a door, portal or chest.                     |
-| 108  | **Major Genesis**               | Creates an object of nonliving stone or metal no greater than 5 cubic foot in size. |
-| 109  | **Maker**                       | Transforms raw materials into finished items.                |
-| 110  | **Manic Fury**                  | A target's attacks are enhanced. They must make a WIL save after a successful killing or lose control, attacking anyone in sight. |
-| 111  | **Masquerade**                  | You assume the likeness of a similar creature you have seen. |
-| 112  | **Master Undead**               | Undead creatures obey your command. Intelligent undead make a WIL save. |
-| 113  | **Mental Tripwire**             | Intruders set off an alarm audible only to you.              |
-| 114  | **Mind Bond**                   | Two allies can communicate via a mental link for the rest of the day. |
-| 115  | **Mind Reader**                 | You can see or hear any person you have met before.          |
-| 116  | **Miniaturize**                 | An object shrinks to one tenth its size.                     |
-| 117  | **Minor Aegis**                 | A target you touch ignores the next instance of harm from a specific source. |
-| 118  | **Minor Genesis**               | Creates an object of nonliving matter no greater than one cubic foot in size. |
-| 119  | **Mirage**                      | You summon a noiseless & simple illusion of your choice.     |
-| 120  | **Molasses Veins**              | A single target moves at half speed.                         |
-| 121  | **Murky Bubble**                | You create a bubble supernatural shadow within a 20ft radius. |
+| 89   | **Tempesta Gelata**             | Una grandinata infligge 1d12 danni in un raggio di 20 piedi. |
+| 90   | **Malasorte**                   | Il bersaglio fallisce automaticamente il suo prossimo tiro salvezza. |
+| 91   | **Paesaggio Illusorio**         | Fai apparire un tipo di terreno come un altro. |
+| 92   | **Scrollata Incorporea**        | Ignora un attacco. |
+| 93   | **Indurre Disperazione**        | Il bersaglio deve superare un tiro su VOL o attaccare con svantaggio. |
+| 94   | **Indure Orrore**               | Il bersaglio deve superare un tiro su VOL o scappare. |
+| 95   | **Inferno**                     | Evochi un muro di fiamme largo fino a 15 piedi. Chiunque lo attraversi soffre 1d6 danni a FOR. |
+| 96   | **Condizionare**                | Il bersaglio guadagna 3 Armatura ma correre e nuotare gli sono impossibili. |
+| 97   | **Desostanziare**               | Il bersaglio diventa inconsistente e può galleggiare. |
+| 98   | **Maledizione del Kraken**      | Tentacoli aggrediscono chiunque si trovi entro 20 piedi, tiro salvezza su FOR per liberarsi. |
+| 99   | **Lume di Candela**             | L'oggetto bersaglio brilla come una torcia per un'ora. |
+| 100  | **Cardine**                     | Una scatola, armadio o porta non chiusa a chiave si apre o chiude al tuo comando. |
+| 101  | **Trappola del Bibliotecario**  | Infligge 1d4+2 danni a FOR quando letto. |
+| 102  | **Percepire Lich**              | Percepisci tutti i nonmorti in un raggio di 60 piedi. Tiro salvezza su VOL per evitare di essere individuato dai nonmorti intelligenti. |
+| 103  | **Gioco di Luci**               | Controlli un'impressionante manifestazionre di luci e colori. |
+| 104  | **Colpo di Fulmine**            | Scagli elettricità dalle dita, infliggendo 1d12 danni (scoppio) in linea retta. |
+| 105  | **Linguista**                   | Per la prossima ora puoi parlare e comprendere qualsiasi linguaggio mondano. |
+| 106  | **Sigillo Magico**              | Chiude magicamente una porta, portale o cassa. |
+| 107  | **Genesi Maggiore**             | Crea un oggetto di pietra o metallo non animata non più grande di 5 piedi cubici. |
+| 108  | **Costruttore**                 | Trasforma materiali grezzi in oggetti finiti. |
+| 109  | **Maker**                       | Gli attacchi di un bersaglio hanno vantaggio. Dopo un'uccisione deve tirare su VOL o perdere il controllo, attaccando chiunque veda. |
+| 110  | **Ballo in Maschera**           | Assumi l'aspetto di una creatura simile a te che hai già visto.|
+| 111  | **Signore dei Nonmorti**        | Le creature nonmorte obbediscono al tuo comando. I nonmorti intelligenti devono fare un tiro salvezza su VOL.|
+| 112  | **Antifurto Mentale**           | Gli intrusi fanno scattare un allarme udibile solo da te.|
+| 113  | **Legame Mentale**              | Due alleati possono comunicare tramite un collegamento mentale per il resto della giornata. |
+| 114  | **Leggi Menti**                 | Puoi sentire o vedere qualsiasi persona tu abbia già incontrato. |
+| 115  | **Miniaturizzare**              | Un oggetto si riduce a un decimo delle sue dimensioni. |
+| 116  | **Scudo Minore**                | Un bersaglio che tocchi ignora la prossima istanza di danno da una fonte specifica. |
+| 117  | **Genesi Minore**               | Crea un oggetto di materia inanimata non più grande di un piede cubico|
+| 118  | **Miraggio**                    | Evochi un'illusione semplice e silente a tua scelta. |
+| 119  | **Sangue di Melassa**           | Un singolo bersaglio si muove a velocità dimezzata. |
+| 120  | **Bolla Offuscante**            | Crei una bolla di ombra sovrannaturale in un raggio di 20 piedi. |
+| 121  | **Tocco Necrotico**             | Il bersaglio deve superare un tiro salvezza su DES o venir paralizzato. |
 | 122  | **Necrotic Touch**              | Target must DEX save or is paralyzed.                        |
 | 123  | **Obfuscate**                   | Target cannot be observed either through divination or scrying. |
 | 124  | **Obfuscation**                 | Changes your appearance.                                     |
