@@ -12,7 +12,7 @@ Se gli [incantesimi](/cairn-srd##100-incantesimi) di default di Cairn non sono e
 
 |      |                             |                                                              |
 | ---- | --------------------------- | ------------------------------------------------------------ |
-| 1    | **Pelle Adattativa              | Il bersaglio può esistere confortevolmente in ambienti caldi o freddi. |
+| 1    | **Pelle Adattativa**            | Il bersaglio può esistere confortevolmente in ambienti caldi o freddi. |
 | 2    | **Confondi cervello**           | Il bersaglio deve superare un tiro su VOL o andare a 0 VOL per 1 ora.    |
 | 3    | **Richiama Animale**            | Evoca una bestia mondana. Non nutre alcuna fedeltà verso di te o i tuoi alleati. |
 | 4    | **Globo Anti-Magia**            | Un sottile scudo di protezione magica circonda una piccola area attorno all'incantatore. Per ogni minuto addizionale in cui il globo è attivo, l'incantatore aggiunge una Fatica addizionale. |
@@ -134,84 +134,84 @@ Se gli [incantesimi](/cairn-srd##100-incantesimi) di default di Cairn non sono e
 | 119  | **Sangue di Melassa**           | Un singolo bersaglio si muove a velocità dimezzata. |
 | 120  | **Bolla Offuscante**            | Crei una bolla di ombra sovrannaturale in un raggio di 20 piedi. |
 | 121  | **Tocco Necrotico**             | Il bersaglio deve superare un tiro salvezza su DES o venir paralizzato. |
-| 122  | **Necrotic Touch**              | Target must DEX save or is paralyzed.                        |
-| 123  | **Obfuscate**                   | Target cannot be observed either through divination or scrying. |
-| 124  | **Obfuscation**                 | Changes your appearance.                                     |
-| 125  | **Obscuring Mist**              | A rolling fog obscures vision in a 300ft radius.             |
-| 126  | **Opaque Cover**                | Details about your person become obscured and unmemorable.   |
-| 127  | **Orb of Ignus**                | You control a floating ball of fire (1d8 damage) for a short while. |
-| 128  | **Orb of Immortality**          | Mundane attacks cannot harm anyone within a 10ft radius, or vice-versa. |
-| 129  | **Otherwordly Pet**             | Summons an unintelligent extraplanar creature up to the size of a small dog. It holds no loyalty towards you or your allies. |
-| 130  | **Otherworldly Gate**           | Opens a portal to another reality. It works in both directions. |
-| 131  | **Paincurrent**                 | An arc of electricity passes from your fingertips to a target you touch. They take 1d8 damage (1d12 if wearing metal armor). |
-| 132  | **Passage**                     | Creates a temporary passage through wood, stone or brick.    |
-| 133  | **Passive Invisibility**        | Target is invisible until they attempt harm.                 |
-| 134  | **Peeping Warlock**             | You control a pair of floating eyes so long as yours remain closed. |
-| 135  | **Perfect Illusion**            | Creates an image with sound, smell and thermal effects, activated according to a trigger you choose. Touching the image or making a successful WIL save will reveal the illusion. |
-| 136  | **Perfect Preservation**        | A weapon you touch becomes immune to wear, mundane damage or elemental effects. The spell wears off after a day. |
-| 137  | **Phantom Hound**               | A ghostly canine (4 HP, bite (1d4)) obeys your commands for up to one hour. |
-| 138  | **Phase Anchor**                | Binds an extraplanar creature to your will until it performs a task specific task, after which they must pass a WIL save to escape (good luck). |
-| 139  | **Phase Sneak**                 | Anyone within a 10ft radius is rendered invisible.           |
-| 140  | **Phase Touch**                 | A disembodied, floating hand obeys your whims but is immaterial. The next Spellbook, ability or item that relies on touch now works from a distance. |
-| 141  | **Philolomancy**                | You understand all spoken and written languages.             |
-| 142  | **Planal Metamorphosis**        | Invisible creatures or objects are revealed.                 |
-| 143  | **Planar Anchor**               | Bars extradimensional movement.                              |
-| 144  | **Plant Scourge**               | Plants within eyesight wither and die.                       |
-| 145  | **Pocket Container**            | Summons a chest from an immaterial plane. It holds up to 6 items. The chest is dismissed at will. |
-| 146  | **Pocket Sun**                  | You create a halo of bright light in a 60ft radius.          |
-| 147  | **Prisma Shard**                | An array of hypnotic lights fascinate nearby creatures, unless they pass a WIL save. |
-| 148  | **Profane Reveal**              | Target must WIL save or its attacks are impaired. Target an empty space to reveal invisible objects or creatures. |
-| 149  | **Psychic Eye**                 | Invisible floating eye allowing you to observe a single location as present. |
-| 150  | **Psychokinesis**               | Magically moves an object up to half your weight.            |
-| 151  | **Puppeteer**                   | You can throw your voice a great distance away               |
-| 152  | **Purge Text**                  | Mundane or magical writing vanishes at your touch.           |
-| 153  | **Pyramid of Passivity**        | Target creatures must make a DEX save or their attacks are impaired. |
-| 154  | **Pyschic Touch**               | You can hear target's surface thoughts, so long as you touch them. |
-| 155  | **Rat-Tat-Tat**                 | Loudly opens a locked or magically sealed door or chest.     |
-| 156  | **Ravenless Message**           | You send a short message 1 mile that anyone along its path can hear. |
-| 157  | **Reject Unlife**               | Nearby undead are immobilized for 30 seconds or until you take another action. |
-| 158  | **Remembered Voice**            | A spot you mark becomes the trigger for a supernatural recording of your voice, delivering a short message of your choice. |
-| 159  | **Reverie**                     | Targets become dazed for a moment, as if lost in daydream.   |
-| 160  | **Runic Harm**                  | A rune you draw causes great pain to the reader, who must WIL save or scream until they pass out (1d4 WIL loss). A successful save destroys the rune. |
-| 161  | **Runic Slumber**               | A rune you draw puts the reader into a magical sleep that lasts 1d6 hours. |
-| 162  | **Safe Haven**                  | You summon a floating, invisible refuge for 8 hours. It fits up to 8 people comfortably. |
-| 163  | **Scintillate**                 | Target must WIL save or their attacks become impaired.       |
-| 164  | **Scry Creature**               | Indicates the precise location of a familiar creature.       |
-| 165  | **Scry Object**                 | Indicates the precise location of an object, known or otherwise. |
-| 166  | **Scrying Ward**                | For 24 hours you become aware of any magical eavesdropping.  |
-| 167  | **Sculpt Water**                | Raise, lower or part nearby water.                           |
-| 168  | **Secret Attaché**              | You summon an invisible creature of great power that obeys your every command. Reading from other Spellbooks dispels the creature. |
-| 169  | **Shelter**                     | Creates a standing edifice that can shelter up to 10 creatures, disappearing after 24 hours. |
-| 170  | **Shrinking Cant**              | A humanoid creature you touch halves in size.                |
-| 171  | **Signal**                      | Sends up a flare that can be seen for some distance.         |
-| 172  | **Simple Illusion**             | Creates a simple image with sound. A cursory investigation will reveal the illusory image. |
-| 173  | **Sinister Flame**              | Target's palms are lined with flames (1d4+1 STR loss) for one minute. |
-| 174  | **Sinister Polymorph**          | WIL save or target is transformed into a harmless animal.    |
-| 175  | **Skillfull Repair**            | You make minor repairs to a nonliving object.                |
-| 176  | **Sky Raft**                    | You summon a 3ft wide floating disk that holds up to 100lbs. |
-| 177  | **Solar Portal**                | Sends an extraplanar message to all beings that wish to enter your plane. You have no choice which being answers and it holds no loyalty to you or your allies. |
-| 178  | **Song of Repose**              | Target falls into a deep slumber.                            |
-| 179  | **Sonic Shattering**            | A sonic wave causes 1d6 STR loss to susceptible objects or crystalline creatures, ignoring armor. |
-| 180  | **Sorcerer's Lock**             | Any door (magical or otherwise) is held shut until you leave its vicinity. |
-| 181  | **Soul Annex**                  | Target's spirit is caged within their body and replaced with the caster's. If the body is slain the original soul departs, but the caster must pass a WIL save to return to their body. |
-| 182  | **Steer's Strength**            | Target's strength triples; unarmed attacks are enhanced.     |
-| 183  | **Strength Tap**                | A target you touch loses 1d6 STR, which is transferred to you (up to your max STR). |
-| 184  | **Stumbling Steps**             | A target you touch becomes deprived and loses 1 STR.         |
-| 185  | **Stupefaction**                | Target temporarily loses sense of place and time. WIL save to overcome. |
-| 186  | **Sudden Slumber**              | Target falls asleep for 1d4 hours.                           |
-| 187  | **Summon Elemental**            | A being of fire, wire, earth, or wind manifests from available matter to perform a single task for the caster. It follows this command against its will. |
-| 188  | **Sway Will**                   | A target is compelled to follow a stated course of action, without understanding why. |
-| 189  | **Temporary Reprieve**          | Target regains any lost STR, but loses it again after a few minutes. |
-| 190  | **Terrify**                     | Targets within eyesight must pass a WIL save or flee.        |
-| 191  | **Terrifying Illusion**         | A target is hunted by a terrible creature only they can see. Its attacks do 1d12 damage; on Critical Damage they must pass a WIL save or become catatonic. |
-| 192  | **Thief's Bane**                | An object appears trapped, even to an experienced thief.     |
-| 193  | **Thwart the Elements**         | Damage from energy blasts are impaired against a target for the next hour. |
-| 194  | **Tongue of the Blue Serpent**  | Rust-colored, serpentine letters materialize on a surface you choose. Anyone reading these words becomes immobilized unless they succeed a WIL save. |
-| 195  | **Torrential Moat**             | You summon a powerful wind that deflects arrows, smaller creatures, and noxious gases. |
-| 196  | **Toxic Blast**                 | A small orb of acid deals 1d6 blast damage to a target.      |
-| 197  | **Transform Aura**              | Target's aura is made non-magical or vice-versa.             |
-| 198  | **True Name**                   | Determines the properties of a magical item you touch.       |
-| 199  | **Trueshift**                   | A willing target takes on a new form (keeping only their WIL), but must pass a WIL save to shift out. |
+| 122  | **Offuscare**                   | Il bersaglio non può essere osservato con la magia. |
+| 123  | **Offuscamento**                | Cambia il tuo aspetto. |
+| 124  | **Bruma Offuscante**            | Un banco di nebbia mobile oscura la visione in un raggio di 300 piedi. |
+| 125  | **Copertura Opaca**             | I dettagli della tua persona diventano offuscati e difficili da ricordare. |
+| 126  | **Sfera di Ignus**              | Per breve tempo, controlli una sfera fluttuante di fuoco (1d8 danni). |
+| 127  | **Sfera di Immortalità**        | Gli attacchi mondani non possono ferire nessuno in un raggio di 10 piedi, o viceversa. |
+| 128  | **Compagno dall'Oltremondo**    | Evoca una creatura extraplanare non intelligente delle dimensioni di un piccolo cane. Non nutre alcuna fedeltà nei confronti tuoi o dei tuoi alleati. |
+| 129  | **Cancello dell'Oltremondo**    | Apre un portale verso un'altra realtà. Funziona in entrambe le direzioni. |
+| 130  | **Corrente Dolorosa**           | Un arco elettrico passa dalle tue dita a un bersaglio che tocchi. Subisce 1d8 danni (1d12 se indossa un'armatura di metallo). |
+| 131  | **Passaggio**                   | Crea un passaggio temporeaneo attraverso legno, pietra o mattoni. |
+| 132  | **Invisibilità Passiva**        | Il bersaglio è invisibile finché non tenta di ferire qualcuno|
+| 133  | **Stregone Sbircione**          | Controlli un paio di occhi fluttuanti finché i tuoi rimangono chiusi. |
+| 134  | **Illusione Perfetta**          | Crea un'immagine completa di suoni, odore ed effetti termini, attivata in base a una chiave a tua scelta. Toccare l'immagine o superare un tiro su VOL rivelerà l'illusione. |
+| 135  | **Conservazione Perfetta**      | Un'arma che tocchi diventa immune all'usura, al danno mondano o agli effetti elementali. L'incantesimo si esaurisce dopo un giorno. |
+| 136  | **Mastino Fantasma**            | Un canide spettrale (4 PF, morso (1d4)) obbedisce ai tuoi comandi per un massimo di un'ora. |
+| 137  | **Ancora di Fase**              | Vincola una creatura extraplanare alla tua volontà finché non compie un compito specifico, dopodiché deve superare un tiro su VOL per scappare (buona fortuna). |
+| 138  | **Fase Furtiva**                | Chiunque in un raggio di 10 piedi diventa invisibile. |
+| 139  | **Tocco di Fase**               | Una mano incorporea e fluttuante obbedisce ai tuoi desideri, ma è immateriale. Il prossimo Libro degli Incantesimi, abilità o oggetto che dipende dal contatto ora funziona a distanza. |
+| 140  | **Filologomanzia**              | Comprendi tutti i linguaggi scritti e parlati. |
+| 141  | **Metamorfosi Planare**         | Creature o oggetti invisibili vengono rivelati. |
+| 142  | **Ancora Planare**              | Blocca il movimento extradimensionale. |
+| 143  | **Flagello delle Piante**       | Le piante in vista si seccano e muiono. |
+| 144  | **Contenitore tascabile**       | Evoca un baule da un piano immateriale. Contiene fino a 6 oggetti. Il baule può essere smaterializzato a volontà. |
+| 145  | **Sole Tascabile**              | Crei un'aureola di luce brillante in un raggio di 60 piedi. |
+| 146  | **Frammento di Prisma**         | Una fila di luci ipnotiche affascinano le creature vicine, a meno che non passino un tiro su VOL. |
+| 147  | **Rivelazione Profana**         | Il bersaglio deve superare un tiro di VOL o i suoi attacchi hanno svantaggio. Se il bersaglio è uno spazio vuoto, rivela oggetti o creature invisibilii. |
+| 148  | **Occhio Psichico**             | Un occhio fluttuante e invisibile che ti permette di osservare un singolo luogo come se fossi presente. |
+| 149  | **Psicocinesi**                 | Muovi magicamente un oggetto che pesi fino a metà di te. |
+| 150  | **Ventriloquo**                 | Puoi proiettare la tua voce a grandi distanze. |
+| 151  | **Purificare Testo**            | La scrittura magica o mondana svanisce al tuo tocco. |
+| 152  | **Piramide di Passività**       | Le creature bersaglio devono superare un tiro su DES o i loro attacchi hanno svantaggio. |
+| 153  | **Tocco Psichico**              | Puoi sentire i pensieri superficiali del bersaglio, finché lo tocchi. |
+| 154  | **Rat-Tat-Tat**                 | Apre rumorosamente porte o bauli chiusi a chiave o magicamente. |
+| 155  | **Messaggio Senza Corvo**       | Trasmetti per un miglio un breve messaggio, che viene udito da chiunque sul suo percorso. |
+| 156  | **Rifiutare la Nonvita**        | I nonmorit vicini sono immobilizzati per 30 secondi o finché non compi un'altra azione. |
+| 157  | **Voce Ricordata**              | Un punto che segni diventa l'innesco per una registrazione sovrannaturale della tua voce, che riproduce un breve messaggio a tua scelta. |
+| 158  | **Castelli in Aria**            | I bersagli rimangono storditi per un momento, come se persi nei propri pensieri. |
+| 159  | **Minaccia Runica**             | Una runa che disegni causa grande dolore al lettore, che deve superare un tiro su VOL o urlare fino a svenire (perde 1d4 VOL). Superare il tiro distrugge la runa. |
+| 160  | **Sonno Runico**                | Una runa che disegni addormenta magicamente il lettore per 1d6 ore. |
+| 161  | **Porto Sicuro**                | Evochi un rifugio invisibile e fluttuante per 8 ore. Contiene fino a 8 persone comodamente. |
+| 162  | **Scintille**                   | Il bersaglio deve superare un tiro su VOL o i suoi attacchi hanno svantaggio. |
+| 163  | **Scrutare Creatura**           | Indica la posizione precisa di una creatura familiare. |
+| 164  | **Scrutare Oggetto**            | Indica la posizione precisa di un oggetto, noto o meno. |
+| 165  | **Allarme Antiscrutamento**     | Per 24 ore vieni a conoscenza di qualsiasi ficcanaso magico. |
+| 166  | **Scolpire Acqua**              | Alza, abbassa o divide acque vicine.|
+| 167  | **Assistente Segreto**          | Evochi una creatura invisibile di grande potere che esegue qualsiasi tuo comando. Leggedere da un altro Libro degli Incantesimi disperde la creatura. |
+| 168  | **Rifugio**                     | Crea un edificio statico che può ospitare fino a 10 creature e sparisce dopo 24 ore. |
+| 169  | **Parola Restringente**         | Una creatura umanoide che tocchi dimezza le proprie dimensioni. |
+| 170  | **Segnale**                     | Lancia in aria un razzo segnalatore che può essere visto da una certa distanza. |
+| 171  | **Illusione Semplice**          | Crea una semplice immagine con suono. Un'indagine distratta rivela la sua origine illusoria. |
+| 172  | **Fiamma Sinistra**             | I palmi del bersaglio sono avvolti da fiamme (1d4+1 danni a FOR) per un minuto. |
+| 173  | **Polimorfismo Sinistro**       | Il bersaglio supera un tiro salvezza su VOL o viene trasformato in un animale innocuo. |
+| 174  | **Abile Riparazione**           | Effettui piccole riparazioni su un oggetto non vivente. |
+| 175  | **Zattera Celeste**             | Evochi un disco fluttuante largo 3 piedi che regge fino a 100 libbre.|
+| 176  | **Portale Solare**              | Invia un messaggio extraplanare a tutti gli esseri che desiderano entrare nel tuo piano. Non hai alcuna scelta su quale essere risponderà e non nutrirà alcuna fedeltà nei tuoi confronti o in quelli dei tuoi alleati. |
+| 177  | **Canzone del Riposo**          | Il bersaglio cade in un sonno profondo.|
+| 178  | **Frantumazione Sonica**        | Un'onda sonora causa 1d6 danni a FOR agli oggetti sensibili o alle creature cristalline, ignorando l'armatura. |
+| 179  | **Lucchetto dello Stregone**    | Ogni porta (magica o altrimenti) è bloccata finché non ne lasci le vicinanze. |
+| 180  | **Anima Allegata**              | Lo spirito del bersaglio è rinchiuso nel suo corpo e rimpiazzato da quello dell'incantatore. Se il corpo viene ucciso, l'anima originale lascia questo mondo mentre l'incantatore deve superare un tiro di VOL per ritornare nel proprio corpo. |
+| 181  | **Forza Bruta**                 | La forza del bersaglio triplica; gli attacchi disarmati hanno vantaggio. |
+| 182  | **Assorbire Forza**             | Un bersaglio che tocchi perde 1d6 FOR, che viene trasferita a te (fino alla tua FOR massima). |
+| 183  | **Passi Incerti**               | Un bersaglio che tocchi diventa esausto e perde 1 FOR. |
+| 184  | **Stupore**                     | Il bersaglio perde temporaneamente il senso dello spazio e del tempo. Tiro su VOL per superare gli effetti. |
+| 185  | **Sonno Improvviso**            | Il bersaglio si addormenta per 1d4 ore.  |
+| 186  | **Evoca Elementale**            | Un essere di fuoco, fil di ferro, terra o vento si manifesta dai materiali disponibili ed esegue un singolo compito per l'incantatore. Esegue questo comando contro la propria volontà. |
+| 187  | **Cambiare Idea**               | Un bersaglio è forzato a eseguire una precisa serie di azioni, senza capire perché. |
+| 188  | **Ripresa Temporanea**          | Il bersaglio recupera tutta la FOR persa, ma la perde di nuovo dopo pochi minuti. |
+| 189  | **Terrorizzare**                | I bersagli che ti vedono devono superare un tiro di VOL o fuggire. |
+| 190  | **Illusione Terrificante**      | Una creatura spaventosa invisibile a tutti tranne che al bersaglio lo perseguita. I suoi attacchi infliggono 1d12 danni; in caso di Danno Critico il bersaglio deve superare un tiro su VOL o diventare catatonico. |
+| 191  | **Assillo del Ladro**           | Un oggetto sembra protetto da una trappola, persino agli occhi di un ladro esperto. |
+| 192  | **Sventare gli Elementi**       | I danni da scoppi di energia hanno svantaggio contro un bersaglio per la prossima ora. |
+| 193  | **Lingua del Serpente Blu**     | Delle lettere serpentine, del colore della ruggine, si materializzano su una superfice a tua scelta. Chiunque legga queste parole rimane immobilizzato a meno di non superare un tiro su VOL.|
+| 194  | **Fossato Torrenziale**         | Evochi un possente vento che deflette freccie, piccole creature e gas nocivi. |
+| 195  | **Colpo Tossico**               | Una piccola sfera di acido infligge 1d6 danni a scoppio a un bersaglio. |
+| 196  | **Trasformare Aura**            | L'aura del bersaglio è resa non magica o viceversa. |
+| 197  | **Vero Nome**                   | Determina le proprietà di un oggetto magico che tocchi. |
+| 198  | **Vera Mutazione**              | Un bersaglio disponibile prende una nuova forma (mantenendo solo VOL), ma deve passare un tiro su VOL per tornare alla precedente. |
+| 199  | **Destriero del Tramonto**      | Evoca un destriero arcano che non si stanca mai, ma si dissolve alla luce del giorno|
 | 200  | **Twilight Steed**              | Summons an arcane steed that never tires, but dissipates within daylight. |
 | 201  | **Ultimate Sacrifice**          | The book's holder transfer's their life force into a corpse, reviving both body and soul. |
 | 202  | **Uncurse**                     | A person or object you touch is freed from a curse or nefarious spell. |
