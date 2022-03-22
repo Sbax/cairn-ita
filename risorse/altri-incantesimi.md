@@ -212,23 +212,22 @@ Se gli [incantesimi](/cairn-srd##100-incantesimi) di default di Cairn non sono e
 | 197  | **Vero Nome**                   | Determina le proprietà di un oggetto magico che tocchi. |
 | 198  | **Vera Mutazione**              | Un bersaglio disponibile prende una nuova forma (mantenendo solo VOL), ma deve passare un tiro su VOL per tornare alla precedente. |
 | 199  | **Destriero del Tramonto**      | Evoca un destriero arcano che non si stanca mai, ma si dissolve alla luce del giorno|
-| 200  | **Twilight Steed**              | Summons an arcane steed that never tires, but dissipates within daylight. |
-| 201  | **Ultimate Sacrifice**          | The book's holder transfer's their life force into a corpse, reviving both body and soul. |
-| 202  | **Uncurse**                     | A person or object you touch is freed from a curse or nefarious spell. |
-| 203  | **Undefinable Target**          | An ally becomes immune to mundane ranged attacks for one round. |
-| 204  | **Undeniable Courage**          | Target passes next WIL save and their attacks are enhanced.  |
-| 205  | **Unflappable Endurance**       | Target does not take Fatigue from non-magical activities or become deprived until their next rest. |
-| 206  | **Vermin Plague**               | Summons a swarm of bats, rats, spiders or similar creatures of your choice. They are harmless but distracting and hold no loyalty towards you or your allies. |
-| 207  | **Vines of Ichor**              | You spread sticky spiderwebs on the walls, floor and ceilings within a 20ft radius. |
-| 208  | **Warrior's Edge**              | Target weapon is enhanced, and victim automatically fails a critical damage save. |
-| 209  | **Windborn**                    | You direct a powerful wind in a straight line, strong enough to blow over small boulders. |
-| 210  | **Winter's Woe**                | An icy storm assails multiple targets, obscuring visibility and making the ground icy and treacherous. |
-| 211  | **Witch Sight**                 | Magical auras become visible to you for one hour.            |
-| 212  | **Wizard's Exit**               | You and and anyone you touch can flee to safety at double speed. |
-| 213  | **Wizard's Grasp**              | You control a phantasmal hand that can lift up to 5 pounds.  |
-| 214  | **Wizard's Haven**              | A small, walled-in area cannot be scryed.                    |
-| 215  | **Wizardsniff**                 | You can feel any magic within a 60ft radius.                 |
-| 216  | **Word of Pain**                | A single phrase from your lips does 1d12 blast damage. Affected targets are also deafened. |
+| 200  | **Sacrificio Estremo**          | Il detentore del libro trasferisce la propria forza vitale in un cadavere, riportando in vita corpo e anima. |
+| 201  | **Smaledire**                   | Una persona o oggetto che tocchi è liberato da una maledizione o incantesimo malvagio. |
+| 202  | **Bersaglio Indefinito**        | Un alleato diventa immune agli attacchi a distanza mondani per un turno. |
+| 203  | **Coraggio Innegabile**         | Il bersaglio supera il prossimo tiro di VOL e i suoi attacchi hanno vantaggio. |
+| 204  | **Resistenza Imperturbabile**   | Il bersaglio non prende Fatiche da attività non-magiche o diventa esausto fino al suo prossimo riposo. |
+| 205  | **Piaga degli Infestanti**      | Evoca uno sciame di pipistrelli, ratti, ragni o simili creature a tua scelta. Sono innocui ma distraggono e non nutrono alcuna fedeltà nei confronti tuoi o dei tuoi alleati. |
+| 206  | **Viticci di Icore**            | Spargi ragnatele appiccicose su muri, pavimento e soffitto in un raggio di 20 piedi. |
+| 207  | **Vantaggio del Guerriero**     | L'arma bersaglio ha vantaggio e le vittime falliscono automaticamente i tiri salvezza contro Danno Critico. |
+| 208  | **Alzarsi del Vento**           | Dirigi in linea retta un possente vento, forte abbastanza da soffiare via piccoli massi. |
+| 209  | **Piaga dell'Inverno**          | Una tempesta gelida aggredisce bersagli multipli, oscurando la visibilità e rendendo il terreno infido e ghiacciato. |
+| 210  | **Vista della Strega**          | Puoi vedere le aure magiche per un'ora. |
+| 211  | **Uscita del Mago**             | Tu e chiunque tocchi potete scappare verso la salvezza a velocità doppia. |
+| 212  | **Presa del Mago**              | Controlli una mano spettrale che può sollevare fino a 5 libbre. |
+| 213  | **Rifugio del Mago**            | Una piccola area circondata da mura non può essere divinata. |
+| 214  | **Snasamaghi**                  | Puoi sentire la magia in un raggio di 60 piedi. |
+| 215  | **Wizardsniff**                 | Una singola frase dalle tue labbra infligge 1d12 danni a scoppio. I bersagli colpiti, inoltre, sono assordati. |
 
 
 
